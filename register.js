@@ -42,7 +42,7 @@ function productPurchased  (name,price) {
     product_name = name
     product_price = price
     product_quantity = reduceQuuatity()
-    console.log({
+    consollog({
         product_name,
         product_price,
         product_quantity
@@ -57,3 +57,4 @@ const reduceQuuatity = ()=> {
 
 
 productPurchased('simbachips', 7)
+
