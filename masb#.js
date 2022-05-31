@@ -38,3 +38,6 @@ function isLesserorGreater(val) {
 
 
 console.log(isLesserorGreater(27))
+
+var myStr = "i am a 68\"year old grandad\"with 4 grandchildren\
+console.log(myStr)
